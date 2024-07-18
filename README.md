@@ -39,3 +39,25 @@ The project includes the following key components:
    ```sh
    git clone https://github.com/yourusername/PharmacyBillingDataAnalysis.git
    cd PharmacyBillingDataAnalysis
+2. Install the required packages:
+   ```sh
+   pip install pandas matplotlib seaborn openai google-generativeai
+3. Set up your OpenAI and Google Generative AI API keys:
+   ```sh
+   import openai
+   import google.generativeai as genai
+   openai.api_key = 'your_openai_api_key'
+   genai.configure(api_key='your_google_api_key')
+4. Place your dataset (data.csv) in the project directory.
+
+### Usage
+
+- Load and Clean Data: Load the dataset and perform initial cleaning.
+
+- Validate Data: Check for missing values and duplicates.
+
+- Analyze Billing Data: Calculate key metrics and identify discrepancies or unusual patterns.
+
+- Generate Report: Use the OpenAI API to generate a detailed report based on the analysis.
+
+- Visualize Data: Create visualizations to better understand the data.
