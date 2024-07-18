@@ -61,3 +61,14 @@ The project includes the following key components:
 - Generate Report: Use the OpenAI API to generate a detailed report based on the analysis.
 
 - Visualize Data: Create visualizations to better understand the data.
+
+### Running the Jupyter Notebook
+
+Open the Jupyter Notebook (BillingDataAnalysis.ipynb) and run the cells to execute the workflow step by step. The notebook contains detailed explanations and code snippets for each step of the analysis.
+
+### Project Structure
+
+- BillingDataAnalysis.ipynb: Jupyter Notebook containing the code and analysis
+- data.csv: Sample dataset used for analysis
+- billing_report.txt: Generated billing report
+- README.md: Project documentation
