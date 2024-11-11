@@ -1,4 +1,4 @@
-# accounts-billing-managing-llm
+# accounts-billing-managing-Ai-powered
 
 This project involves auditing and analyzing billing data in the healthcare industry, specifically within the healthcare/pharmacy sector. The goal is to ensure data accuracy, analyze billing patterns, and generate detailed reports using AI tools and techniques.
 
